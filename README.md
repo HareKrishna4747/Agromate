@@ -76,7 +76,7 @@ AgroMate is an AI-powered farming assistant designed to help farmers make data-d
 
 3. **Run the Application**:  
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
 4. **Access the Dashboard**:  
